@@ -1,4 +1,4 @@
-- name: Nrwl Nx
+name: Nrwl Nx
   # You may pin to the exact commit or the version.
   # uses: MansaGroup/nrwl-nx-action@aa23d6b1e0aa2aefe44026c2afe31b6a0b48c657
   uses: MansaGroup/nrwl-nx-action@v2.1.0
